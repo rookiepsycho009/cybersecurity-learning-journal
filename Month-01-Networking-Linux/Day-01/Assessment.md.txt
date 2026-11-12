@@ -6,5 +6,3 @@
 6. don't know what gateway is 
 7. it launches the website , i know that you make request to a server and then the server responds 
 8. The internet is connected to the whole world and a local network only few computers or machines can talk with each other and share files 
-
-let's just test ok? 
